@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="java.awt.Label" name="label1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="label1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,70,0,0,2,61"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Helvetica Neue" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="TERMS AND CONDITIONS"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="180" y="7" width="-1" height="20"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="30" width="550" height="280"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Thank you for using FreshGo. These Terms of Service (the &quot;Terms&quot;) &#xa;are intended to make you aware of your legal rights and responsibilities &#xa;with respect to your access to our desktop application.&#xa; By ordering any Food items from FreshGo through the&#xa;desktop application you agree to be bound by these Terms and Conditions.&#xa;&#xa;Section 1: Introduction We are FreshGo, a food delivery platform unless otherwise&#xa;stated.&#xa;&#xa;Section 2: Definitions&#xa;2.1. &quot;Agreement&quot; is a reference to these Terms and Conditions, the Privacy Policy,&#xa;any order form and payment instructions provided to you;&#xa;2.2. &quot;Privacy Policy&quot; means the policy displayed on our Website which details how&#xa;we collect and store your personal data;&#xa;2.3. &quot;you&quot;, &quot;your&quot; and &quot;yours&quot; are references to you the person accessing this&#xa;application and ordering food or any other service.&#xa;2.4. &quot;we&quot;, &quot;us&quot;, &quot;our&quot;, and &quot;FreshGo&quot; are references to the application.&#xa;2.5. &quot;Service&quot; or &quot;Services&quot; is a reference to any service which we may supply and&#xa;which you may request via our application;&#xa;&#xa;Section 3: Ordering&#xa;3.1. Any contract for the supply of Food Delivery from this Application is between you&#xa;and the Participating Restaurant; for the supply of Goods or Services from this&#xa;Website any contact is between you and FreshGo. You agree to take particular care&#xa;when providing us with your details and warrant that these details are accurate and&#xa;complete at the time of ordering. You also warrant that the credit or debit card details&#xa;that you provide are for your own credit or debit card and that you have sufficient&#xa;funds to make the payment.&#xa;3.2. Food Delivery from this Website are intended for your use only and you warrant&#xa;that any Food items purchased by you are not for resale and that you are acting as&#xa;principal only and not as agent for another party when receiving the Services.&#xa;3.3. When ordering from the Application you may be required to provide an e-mail&#xa;address and password. You must ensure that you keep the combination of these&#xa;details secure and do not provide this information to a third party.&#xa;3.4. We will take all reasonable care, in so far as it is in our power to do so, to keep&#xa;the details of your order and payment secure, but in the absence of negligence on&#xa;our part we cannot be held liable for any loss you may suffer if a third party procures&#xa;unauthorized access to any data you provide when accessing or ordering from the&#xa;Application.&#xa;3.5. Any order that you place with us is subject to product availability, delivery&#xa;capacity and acceptance by us and the Participating Restaurant. When you place&#xa;your order online, we will send you an email to confirm that we have received it. This&#xa;email confirmation will be produced automatically so that you have confirmation of&#xa;your order details. You must inform us immediately if any details are incorrect. The&#xa;fact that you receive an automatic confirmation does not necessarily mean that either&#xa;we or the Participating Restaurant will be able to fill your order. Once we have sent&#xa;the confirmation email we will check availability and delivery capacity.&#xa;3.6. If the ordered Food Delivery and delivery capacity is available, the Participating&#xa;Restaurant will accept the contract and confirm it to FreshGo. If the details of the&#xa;order are correct, the contract for the Food Delivery will be confirmed through an&#xa;email.&#xa;3.7. The confirmation message will specify delivery details including the approximate&#xa;delivery time specified by the Participating Restaurant and confirm the price of the&#xa;food items ordered&#xa;3.8. If the food items are not available or if there is no delivery capacity, we will also&#xa;let you know through an email.&#xa;&#xa;&#xa9; 2022 FreshGo Pvt. Ltd."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
